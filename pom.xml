@@ -6,6 +6,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>interceptorDemo</module>
+        <module>shopDemo</module>
     </modules>
 
     <parent>
